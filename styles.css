@@ -1,0 +1,79 @@
+.body-main {
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+}
+
+.banner {
+    padding-left: 15;
+    line-height: 2;
+    font-size: 25;
+    font-weight: 500;
+    background-color: #62A7F2;
+    color: white;
+    height: 50px;
+    text-align: left;
+    vertical-align: middle;
+
+}
+
+.subheader {
+    padding-left: 15;
+    line-height: 2;
+    font-weight: 500;
+    background-color: #d0cdcd;
+    margin: 15px;
+    height: 100px;
+    font-size: 25;
+}
+
+.info-box {
+    margin: 15px;
+}
+
+.hello {
+    background-color: white;
+    color: #62A7F2;
+    height: 25px;
+
+}
+
+.text {
+    background-color: white;
+    color: black;
+    height: 50px;
+}
+
+.orange-box {
+    background-color: orange;
+    color: white;
+    height: 25px; 
+}
+
+.boxes {
+    display: inline-block;
+    background-color: #e0e0e0;
+    height: 150px;
+    width: 150px;
+    margin: 25px;
+    font-weight: 200;
+    font-size: 25;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.title {
+    position: relative;
+    top: 50;
+}
+}
+
+.articles {
+    display: inline-block;
+
+}
+.articles-info {
+    font-size: 13;
+    color: grey;
+    position: relative;
+    top: 75;
+}
